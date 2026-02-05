@@ -25,6 +25,9 @@ This project is a simple HTML web page created to practice basic web development
 (No CSS or JavaScript yet — this project focuses on HTML fundamentals.)
 
 ---
+
+[live](https://anandhues2004-kerala.github.io/learning_html/)
+
 ![preview](./img.png)
 
 ## 📂 Project Structure
